@@ -20,7 +20,7 @@ Contributions welcome. Please keep entries factual and free of marketing languag
 
 - [GoodMem](https://goodmem.ai) - Memory layer for agentic AI with owners, roles, scoped API keys and retrieval logging, multi-modal hybrid search with reranking, available as a managed cloud or self-hosted, with SDKs in Python, TypeScript, Java, .NET and Go.
 - [Honcho](https://github.com/plastic-labs/honcho) - Open-source (AGPL-3.0) memory server that stores messages between peers (users and agents) and reasons over them in the background to build a representation of each peer, plus a managed cloud, with SDKs in Python and TypeScript.
-- [HydraDB](https://hydradb.com/) - Persistent agent memory built on knowledge graphs; available self-hosted (AGPL-3.0) or as a managed cloud service.
+- [HydraDB](https://hydradb.com/) - Graph database for AI agents that stores agent memory and company knowledge, with hybrid search across both in a single call.
 - [Marvnor](https://wendelxia.github.io/marvnor/) - Proprietary hosted API that stores facts as source, relation and target records and answers structured questions against them as TRUE, FALSE or UNKNOWN, flagging conflicting values, with in-place correction and targeted deletion.
 - [Mem0](https://github.com/mem0ai/mem0) - Open-source (Apache-2.0) memory layer that extracts facts from conversations, plus a managed cloud, with many framework integrations.
 - [Membase](https://github.com/unibaseio/membase) - Hosted memory layer with a remote MCP endpoint (OAuth) and MIT-licensed Python and TypeScript SDKs, letting Claude, ChatGPT, Cursor and custom agents share one persistent memory.
